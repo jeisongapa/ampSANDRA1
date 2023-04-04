@@ -48,7 +48,7 @@
     "imageResize": true,
     "site_lang": "es",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
-    "mbrsiteDomain": "ftnqqstxis",
+    "mbrsiteDomain": "orgwc5lyge",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -59,13 +59,14 @@
     "versionPublish": "5.7.4",
     "screenshot": "screenshot.png",
     "canonical-url": false,
-    "robotsText": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nAllow: /\n"
+    "robotsText": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nAllow: /\n",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Ayuda en el Amor",
+        "title": "Amarres de Amor",
         "meta_descr": "Los amarres para el amor se usan para ayudar a construir una conexión firme e irrompible, creando confianza, seguridad y un intenso amor en la pareja.",
         "header_custom": "",
         "footer_custom": "",
