@@ -48,7 +48,7 @@
     "imageResize": true,
     "site_lang": "es",
     "favicon": "@PROJECT_PATH@/assets/images/l-9-128x128.png",
-    "mbrsiteDomain": "ng7wpqsczb",
+    "mbrsiteDomain": "4s7skgzlor",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -61,8 +61,8 @@
     "robotsText": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nAllow: /\n",
     "publishChangesOnly": false,
     "canonical-url": "https://temploespiritista.com/",
-    "global_header_custom": "<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\n",
-    "global_after_body": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-TQD75GQ&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n"
+    "global_header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-K5SN34D');</script>\n<!-- End Google Tag Manager -->\n",
+    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-K5SN34D\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n"
   },
   "pages": {
     "index.html": {
