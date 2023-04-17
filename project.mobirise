@@ -48,7 +48,7 @@
     "imageResize": true,
     "site_lang": "es",
     "favicon": "@PROJECT_PATH@/assets/images/l-9-128x128.png",
-    "mbrsiteDomain": "ctro789ban",
+    "mbrsiteDomain": "ng7wpqsczb",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -60,7 +60,7 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nAllow: /\n",
     "publishChangesOnly": false,
-    "canonical-url": false,
+    "canonical-url": "https://temploespiritista.com/",
     "global_header_custom": "<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\n",
     "global_after_body": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-TQD75GQ&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n"
   },
