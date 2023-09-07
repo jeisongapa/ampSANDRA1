@@ -49,7 +49,7 @@
     "imageResize": true,
     "site_lang": "es",
     "favicon": "@PROJECT_PATH@/assets/images/log-removebg-preview-128x127.png",
-    "mbrsiteDomain": "rd8tp1lcr2",
+    "mbrsiteDomain": "ddlh58f4bb",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -65,7 +65,7 @@
     "global_header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-K5SN34D');</script>\n<!-- End Google Tag Manager -->\n",
     "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-K5SN34D\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n",
     "chatbutton": {},
-    "cssOptimize": false
+    "cssOptimize": true
   },
   "pages": {
     "index.html": {
@@ -1719,7 +1719,7 @@
     "limpias.html": {
       "settings": {
         "title": "Limpias Espirituales",
-        "meta_descr": "Usted Podrá mejorar mejorar su vida económica, su vida amorosa, su salud",
+        "meta_descr": "Aprende a reconocer los síntomas de brujería y descubre cómo utilizar rituales poderosos para restaurar la armonía.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
